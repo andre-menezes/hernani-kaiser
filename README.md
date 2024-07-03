@@ -1,4 +1,4 @@
-# patricia-lemos
+# Landing Page Hernani Kaiser
 
 ## Project setup
 ```
