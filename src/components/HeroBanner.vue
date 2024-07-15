@@ -8,7 +8,8 @@
         </h1>
         <p class="mb-3 animate-slideToTop">Sou <strong>Psicólogo Clínico</strong> (CRP 06/198119) com especialização em
           Psicanálise e Análise do Contemporâneo pela PUC-RS.</p>
-        <p class="animate-slideToTop">Meu objetivo principal é ajudar as pessoas a se sentirem realizadas, promovendo uma
+        <p class="animate-slideToTop">Meu objetivo principal é ajudar as pessoas a se sentirem realizadas, promovendo
+          uma
           melhor compreensão de si mesmas e das suas relações com o mundo ao seu redor.</p>
         <a :href="whatsappLink" target="_blank" class="
             uppercase
