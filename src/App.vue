@@ -6,7 +6,7 @@
     <AboutMe />
     <AboutSessions />
     <TerapySection />
-    <a class="fixed bottom-8 right-8 rounded-full z-20 w-14 h-14 bg-green-600 hover:bg-green-600/90 flex justify-center items-center"
+    <a class="fixed bottom-8 right-8 rounded-full shadow z-20 w-14 h-14 bg-whatsapp hover:bg-whatsapp/90 flex justify-center items-center"
       :href="whatsappLink" target="_blank">
       <mdi-icon type="mdi" :path="mdiWhatsapp" class="w-10 h-10  text-white">
       </mdi-icon>

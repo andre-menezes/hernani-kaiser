@@ -12,7 +12,8 @@ module.exports = {
         'variant-g': "#ACAD9E",
         'variant-g-txt': "#6D6E65",
         'variant-r': "#9B7284",
-        'variant-bg': '#F7F5F1'
+        'variant-bg': '#F7F5F1',
+        whatsapp: '#25D366'
       },
       fontFamily: {
         bellefair: ["Bellefair", "serif"],
