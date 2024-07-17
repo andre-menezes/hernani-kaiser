@@ -30,7 +30,7 @@
         </a>
       </article>
       <article class="sm:w-2/6 sm:my-10">
-        <img src="@/assets/profile1.webp" alt="profile" class="animate-show shadow rounded" />
+        <img src="@/assets/profile_1.webp" alt="profile" class="animate-show shadow rounded" />
       </article>
     </div>
   </section>

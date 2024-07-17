@@ -4,9 +4,9 @@
       Sobre mim
     </h2>
     <div class="flex flex-col sm:flex-row-reverse ">
-      <img src="@/assets/profile1.webp" alt="Hernani Kaiser" class="sm:w-2/5 sm:h-1/6 animate-show shadow rounded" />
+      <img src="@/assets/profile_2.webp" alt="Hernani Kaiser" class="sm:w-2/5 sm:h-1/6 animate-show shadow rounded" />
       <article class="sm:w-2/3 mt-20 sm:mt-0 sm:pr-16">
-        <p class="mb-3 animate-slideToRight">Olá, meu nome é Hernani Kaiser. Sou <strong>Psicólogo Clínico</strong>
+        <p class="mb-3 animate-slideToRight">Sou <strong>Psicólogo Clínico</strong>
           (CRP 06/198119) com especialização em <strong>Psicanálise e Análise do Contemporâneo</strong> pela PUC-RS,
           autorizado pelo
           Conselho Federal de Psicologia para realizar atendimentos

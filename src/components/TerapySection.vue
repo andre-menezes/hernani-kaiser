@@ -58,6 +58,9 @@
           </div>
         </li>
 
+        <img class="w-full sm:w-2/3 mx-auto py-10 drop-shadow-lg" src="@/assets/terapy2.webp"
+          alt="Homem de etnia asiática em terapia" />
+
         <li class="flex flex-col mb-6">
           <h3 class="flex items-center font-semibold mb-2">
             <mdi-icon type="mdi" :path="mdiNumeric3"
@@ -133,6 +136,9 @@
               proporcionar um acesso mais rápido ao apoio necessário.</p>
           </div>
         </li>
+
+        <img class="w-full sm:w-2/3 mx-auto py-10 drop-shadow-lg" src="@/assets/terapy3.webp" alt="Mulher em terapia" />
+
       </ol>
       <p class="mb-20">A terapia on-line oferece uma abordagem eficaz, acessível e flexível, mantendo a qualidade do
         atendimento e
