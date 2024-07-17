@@ -35,7 +35,7 @@
           </div>
         </li>
 
-        <li class="flex flex-col mb-6">
+        <li class="flex flex-col sm:mb-6">
           <h3 class="flex items-center font-semibold mb-2">
             <mdi-icon type="mdi" :path="mdiNumeric2"
               class="text-primary rounded-full w-5 h-5 bg-variant-r mr-2"></mdi-icon>
@@ -115,7 +115,7 @@
           </div>
         </li>
 
-        <li class="flex flex-col mb-6">
+        <li class="flex flex-col sm:mb-6">
           <h3 class="flex items-center font-semibold mb-2">
             <mdi-icon type="mdi" :path="mdiNumeric5"
               class="text-primary rounded-full w-5 h-5 bg-variant-r mr-2"></mdi-icon>

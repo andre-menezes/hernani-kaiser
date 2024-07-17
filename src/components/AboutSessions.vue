@@ -7,7 +7,7 @@
     </h2>
     <article class="h-full pt-20 sm:py-10">
       <div class="md:grid md:grid-cols-2 md:place-items-center">
-        <img class="w-full sm:w-5/6 mx-auto sm:mb-20 drop-shadow-lg" src="@/assets/sessions.webp"
+        <img class="w-full sm:w-5/6 mx-auto mb-20 sm:mb-0 drop-shadow-lg" src="@/assets/sessions.webp"
           alt="Homem de meia idade sentado em frente ao notebook realizando uma sessão de terapia online" />
         <p class="mb-14">Durante nossas sessões, você encontrará um espaço seguro e acolhedor para expressar seus
           sentimentos, pensamentos
@@ -63,7 +63,7 @@
             Marque sua sessão
           </a>
         </div>
-        <img class="w-full sm:w-5/6 mx-auto drop-shadow-lg" src="@/assets/sessions2.webp"
+        <img class="w-full sm:w-5/6 mx-auto drop-shadow-lg my-10 sm:my-0" src="@/assets/sessions2.webp"
           alt="Homem idoso sentado utilizando um tablet ascenando para a pessoa do outro lado da chamada de vídeo" />
       </div>
     </article>
