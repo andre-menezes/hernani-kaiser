@@ -15,7 +15,7 @@
           ajudando
           a revelar padrões inconscientes e promovendo o autoconhecimento e a realização pessoal.</p>
       </div>
-      <h3 class="mb-10 text-xl text-variant-r font-semibold">Como funciona as sessões?</h3>
+      <h3 class="mb-10 sm:my-10 text-xl text-variant-r font-semibold">Como funciona as sessões?</h3>
       <div class="flex flex-col-reverse md:grid md:grid-cols-2 md:place-items-center">
         <div>
           <ol class="w-full my-10">
