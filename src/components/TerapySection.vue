@@ -147,20 +147,22 @@
         de todas essas vantagens sem comprometer a profundidade e a eficácia do tratamento terapêutico.</p>
       <a :href="whatsappLink" target="_blank" class="
             uppercase
-            block
+            flex
+            items-center
             w-fit
             mx-auto
             sm:mx-0
             my-10
             px-8
             py-4
-            hover:bg-variant-g/80
-            bg-variant-g
+            hover:bg-whatsapp/80
+            bg-whatsapp
             text-xs
             text-primary
             font-montserrat
             font-semibold">
-        Agende já sua sessão
+        <mdi-icon type="mdi" :path="mdiWhatsapp" class="mr-2"></mdi-icon>
+        Agende sua sessão
       </a>
     </article>
   </section>
@@ -173,6 +175,7 @@ import {
   mdiNumeric3,
   mdiNumeric4,
   mdiNumeric5,
+  mdiWhatsapp
 } from '@mdi/js';
 import DotIcon from './DotIcon.vue';
 import { whatsappLink } from '@/utils/constants';

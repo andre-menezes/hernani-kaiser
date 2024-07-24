@@ -47,20 +47,22 @@
           </ol>
           <a :href="whatsappLink" target="_blank" class="
             uppercase
-            block
+            flex
+            items-center
             w-fit
             mx-auto
             sm:mx-0
-            my-14
+            my-10
             px-8
             py-4
-            hover:bg-variant-g/80
-            bg-variant-g
+            hover:bg-whatsapp/80
+            bg-whatsapp
             text-xs
             text-primary
             font-montserrat
             font-semibold">
-            Marque sua sessão
+            <mdi-icon type="mdi" :path="mdiWhatsapp" class="mr-2"></mdi-icon>
+            Agende sua sessão
           </a>
         </div>
         <img class="w-full sm:w-5/6 mx-auto drop-shadow-lg my-10 sm:my-0" src="@/assets/sessions2.webp"
@@ -74,7 +76,8 @@
 import {
   mdiNumeric1,
   mdiNumeric2,
-  mdiNumeric3
+  mdiNumeric3,
+  mdiWhatsapp
 } from '@mdi/js';
 import { whatsappLink } from '@/utils/constants';
 </script>

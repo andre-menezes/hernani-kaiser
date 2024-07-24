@@ -23,20 +23,21 @@
 
       <a :href="whatsappLink" target="_blank" class="
             uppercase
-            block
+            flex
+            items-center
             w-fit
             mx-auto
             sm:mx-0
             my-10
             px-8
             py-4
-            hover:bg-variant-g/80
-            bg-variant-g
+            hover:bg-whatsapp/80
+            bg-whatsapp
             text-xs
             text-primary
             font-montserrat
-            font-semibold
-            cursor-pointer">
+            font-semibold">
+        <mdi-icon type="mdi" :path="mdiWhatsapp" class="mr-2"></mdi-icon>
         Enviar mensagem
       </a>
     </form>
@@ -45,6 +46,7 @@
 
 <script setup>
 import { computed, ref } from 'vue';
+import { mdiWhatsapp } from '@mdi/js'
 
 const name = ref('');
 const msg = ref('');
